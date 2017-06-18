@@ -1,6 +1,6 @@
 andylikescodes
 ==============
-This repo is still a work in progress. Please visit andylikescodes.github.io to see the progress and lesson notes.
+This repo is still a work in progress. Please visit http://andylikescodes.github.io to see the progress and lesson notes.
 The original excercises are from the Stanford Unsupervised Feature Learning and Deep Learning Tutorial. Please see the next section for more information about this tutorial.
 
 
